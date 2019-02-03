@@ -11,4 +11,5 @@
 <code>python binary_to_image.py YOURBINARYFILENAME.bin</code>
 
 <h2>Faq</h2>
-Works best with png -files at the moment
+<p>Works best with png -files at the moment<br />
+Works only with Python 2.7.x at the moment</p>
