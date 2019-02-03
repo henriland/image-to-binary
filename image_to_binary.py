@@ -14,4 +14,4 @@ binary = binary[2:].zfill(32)
 parsed_filename = os.path.splitext(os.path.basename(filename))[0]
 binary_filename = parsed_filename + '.bin'
 with open(binary_filename, 'wb') as file:
-    file.write(binary);
+    file.write(binary.encode());
