@@ -12,4 +12,4 @@
 
 <h2>Faq</h2>
 <p>Works best with png -files at the moment<br />
-Works only with Python 2.7.x at the moment</p>
+Tested with Python 2.7 and Python 3.6</p>
